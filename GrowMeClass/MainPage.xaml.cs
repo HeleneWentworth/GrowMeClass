@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Timers;
 using Xamarin.Forms;
 
+
 namespace GrowMeClass
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
@@ -114,15 +115,15 @@ namespace GrowMeClass
                 plantNameButton.Text = plant.PlantName.ToString();
             }
 
-            if(timeElapsed.TotalSeconds < 10)
+            if(timeElapsed.TotalSeconds < 100)
             {
                 newPlantState = PlantState.healthy;
             }
-            else if (timeElapsed.TotalSeconds < 20)
+            else if (timeElapsed.TotalSeconds < 200)
             {
                 newPlantState = PlantState.nothealthy;
             } 
-            else if(timeElapsed.TotalSeconds >= 20)
+            else if(timeElapsed.TotalSeconds >= 200)
             {
                 newPlantState = PlantState.withered;
             }

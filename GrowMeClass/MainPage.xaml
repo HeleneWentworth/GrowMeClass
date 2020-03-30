@@ -40,12 +40,7 @@
                 x:Name="droppable"
                 />
 
-            <components:DragAndDropSample3ReceivingView
-                AbsoluteLayout.LayoutFlags="All"
-                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
-                BackgroundColor="Beige"
-                x:Name="droppable1"
-                />
+            
 
         </StackLayout>
         <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_1"/>
@@ -63,7 +58,19 @@
                      BackgroundColor="White"
                      x:Name="waterButton"
                      Clicked="waterButton_Clicked"/>
+        <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#354542 ">
+            <Label Text="Chicken" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
 
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#ff6677">
+            <Label Text="Sweeties" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
        
     </StackLayout>
 
