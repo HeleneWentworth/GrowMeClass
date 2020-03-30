@@ -51,8 +51,8 @@ namespace GrowMeClass
 
             if(plantXp < 1)
             {
-                levelLabel.Text = "Not Planted";
-                xpLabel.Text = "tap the water button to plant";
+                levelLabel.Text = "Not Fed";
+                xpLabel.Text = "tap the chicken button to get fed";
             } else
             {
                 levelLabel.Text = "Level " + Level.GetLevelFromXp(plantXp).ToString();
@@ -77,7 +77,7 @@ namespace GrowMeClass
 
         private async void PlantWithered()
         {
-            await DisplayAlert("Withered", "Your Plant Has Died", "New Plant");
+            await DisplayAlert("Starved", "Your Koala Has Died", "New Koala");
 
             plant.Xp = 0;
             plant.CurrentPlantState = PlantState.healthy;
