@@ -1,0 +1,30 @@
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.deps.json
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.dll
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/ref/GrowMeClass.dll
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.pdb
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csprojAssemblyReference.cache
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfoInputs.cache
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfo.cs
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.dll
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ref/GrowMeClass.dll
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.pdb
+C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/RenamePlant.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.deps.json
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.dll
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/ref/GrowMeClass.dll
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.pdb
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csprojAssemblyReference.cache
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/RenamePlant.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csproj.CoreCompileInputs.cache
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfoInputs.cache
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfo.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.dll
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ref/GrowMeClass.dll
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.pdb
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/Food.xaml.g.cs

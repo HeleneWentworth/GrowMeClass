@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+              xmlns:components="clr-namespace:GrowMeClass.Components;assembly=GrowMeClass"
+             x:Class="GrowMeClass.MainPage"
+             BackgroundImageSource="#E5E5E5">
+
+    <StackLayout>
+     
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Button Text="Koala"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    TextColor="#5A854D"
+                    BackgroundColor="Transparent"
+                    Clicked="EditNameTapped"
+                    x:Name="plantNameButton" />
+            <Label Text="Level 1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                   x:Name="levelLabel"/>
+            <Label HorizontalOptions="Center" 
+                   VerticalOptions="CenterAndExpand"
+                   x:Name="xpLabel">1000px</Label>
+            <components:DragAndDropSample3ReceivingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
+                BackgroundColor="Beige"
+                x:Name="droppable"
+                />
+
+            <components:DragAndDropSample3ReceivingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
+                BackgroundColor="Beige"
+                x:Name="droppable1"
+                />
+
+        </StackLayout>
+        <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="koala"/>
+        <ImageButton VerticalOptions="CenterAndExpand" 
+                     HorizontalOptions="Center" 
+                     Source="water_button" 
+                     HeightRequest="60"
+                     WidthRequest="60" 
+                     Padding="8" 
+                     CornerRadius="10" 
+                     BackgroundColor="White"
+                     x:Name="waterButton"
+                     Clicked="waterButton_Clicked"/>
+
+        <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#D2691E">
+            <Label Text="Chicken" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#ff6347">
+            <Label Text="Tomato" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#32CD32">
+            <Label Text="Apple" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+        <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor=" #fffdd0">
+            <Label Text="Ice Cream" TextColor="Black"/>
+        </components:DragAndDropSample3MovingView>
+    </StackLayout>
+
+
+</ContentPage>
