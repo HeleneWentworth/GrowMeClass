@@ -124,10 +124,22 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\koala.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\koala.imageset\koala.png" />
-    <ImageAsset Include="Assets.xcassets\koala.imageset\koala-1.png" />
-    <ImageAsset Include="Assets.xcassets\koala.imageset\koala-2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala-1.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala-2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_3.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_3-1.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_3-2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_2-1.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_1.png" />
+    <ImageAsset Include="Assets.xcassets\dsf.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\dsf.imageset\plant_withered_2.png" />
+    <ImageAsset Include="Assets.xcassets\dsf.imageset\plant_withered_2-1.png" />
+    <ImageAsset Include="Assets.xcassets\dsf.imageset\plant_withered_2-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -138,8 +150,8 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.495" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.2" />
     <PackageReference Include="Xamarin.Forms.InputKit">
       <Version>3.2.2</Version>
     </PackageReference>
@@ -152,6 +164,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Assets.xcassets\koala.imageset\" />
+    <Folder Include="Assets.xcassets\plant_healthy_1.imageset\" />
+    <Folder Include="Assets.xcassets\plant_healthy_3.imageset\" />
+    <Folder Include="Assets.xcassets\plant_healthy_2.imageset\" />
+    <Folder Include="Assets.xcassets\plant_nothealthy_2.imageset\" />
+    <Folder Include="Assets.xcassets\plant_nothealthy_3.imageset\" />
+    <Folder Include="Assets.xcassets\plant_withered_3.imageset\" />
+    <Folder Include="Assets.xcassets\plant_withered_2.imageset\" />
+    <Folder Include="Assets.xcassets\gfdfg.imageset\" />
+    <Folder Include="Assets.xcassets\dsf.imageset\" />
   </ItemGroup>
 </Project>

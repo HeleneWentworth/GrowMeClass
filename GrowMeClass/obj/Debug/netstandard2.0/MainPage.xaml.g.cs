@@ -35,6 +35,9 @@ namespace GrowMeClass {
         private global::Xamarin.Forms.Image plantImage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.Image koalaImage;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.ImageButton waterButton;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
@@ -46,6 +49,7 @@ namespace GrowMeClass {
             droppable = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::GrowMeClass.Components.DragAndDropSample3ReceivingView>(this, "droppable");
             droppable1 = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::GrowMeClass.Components.DragAndDropSample3ReceivingView>(this, "droppable1");
             plantImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "plantImage");
+            koalaImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "koalaImage");
             waterButton = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ImageButton>(this, "waterButton");
         }
     }
