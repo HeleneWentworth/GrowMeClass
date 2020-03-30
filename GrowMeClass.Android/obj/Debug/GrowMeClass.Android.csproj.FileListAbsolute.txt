@@ -507,8 +507,3 @@
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xxxhdpi/plant_healthy_2.png
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xxhdpi/plant_healthy_2.png
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xhdpi/plant_healthy_2.png
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable/plant_withered_2.png
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-hdpi/plant_withered_2.png
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xhdpi/plant_withered_2.png
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xxhdpi/plant_withered_2.png
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xxxhdpi/plant_withered_2.png
