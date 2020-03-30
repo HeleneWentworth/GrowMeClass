@@ -31,6 +31,12 @@ namespace GrowMeClass
            
         }
 
+
+        async void SleepButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new SleepPage());
+        }
+
         async void EditNameTapped(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new RenamePlant());

@@ -3,10 +3,6 @@ using System.Linq;
 using GrowMeClass.Interfaces;
 using Xamarin.Forms;
 using GrowMeClass.Objects;
-using System;
-using Xamarin.Essentials;
-using Xamarin.Forms;
-using GrowMeClass;
 
 namespace GrowMeClass.Components
 {

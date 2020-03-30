@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GrowMeClass.SleepPage">
+ 
+        <StackLayout>
+
+        <Label Text="Level 1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                   />
+
+            <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                     Clicked="PlayButtonClicked"></ImageButton>
+                   
+            </StackLayout>
+   
+</ContentPage>

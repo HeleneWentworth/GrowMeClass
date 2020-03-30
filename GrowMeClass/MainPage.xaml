@@ -71,7 +71,34 @@
                 BackgroundColor="#ff6677">
             <Label Text="Sweeties" TextColor="White"/>
         </components:DragAndDropSample3MovingView>
-       
+
+
+           <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                     Clicked="SleepButtonClicked"></ImageButton>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </StackLayout>
 
 
