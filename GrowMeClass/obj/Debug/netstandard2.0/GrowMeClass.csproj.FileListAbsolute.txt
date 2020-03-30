@@ -29,3 +29,4 @@ C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/D
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.pdb
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/SleepPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ToiletPage.xaml.g.cs

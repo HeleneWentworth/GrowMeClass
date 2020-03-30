@@ -11,5 +11,10 @@ namespace GrowMeClass
         {
             InitializeComponent();
         }
+
+        async void ToiletButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new ToiletPage());
+        }
     }
 }
