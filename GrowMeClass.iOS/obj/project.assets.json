@@ -162,8 +162,7 @@
         "dependencies": {
           "Xamarin.Essentials": "1.5.2",
           "Xamarin.Forms": "4.5.0.495",
-          "Xamarin.Forms.InputKit": "3.2.2",
-          "kphillpotts.Lamp.Plugin": "1.0.0.1"
+          "Xamarin.Forms.InputKit": "3.2.2"
         },
         "compile": {
           "bin/placeholder/GrowMeClass.dll": {}
@@ -334,8 +333,7 @@
         "dependencies": {
           "Xamarin.Essentials": "1.5.2",
           "Xamarin.Forms": "4.5.0.495",
-          "Xamarin.Forms.InputKit": "3.2.2",
-          "kphillpotts.Lamp.Plugin": "1.0.0.1"
+          "Xamarin.Forms.InputKit": "3.2.2"
         },
         "compile": {
           "bin/placeholder/GrowMeClass.dll": {}
@@ -506,8 +504,7 @@
         "dependencies": {
           "Xamarin.Essentials": "1.5.2",
           "Xamarin.Forms": "4.5.0.495",
-          "Xamarin.Forms.InputKit": "3.2.2",
-          "kphillpotts.Lamp.Plugin": "1.0.0.1"
+          "Xamarin.Forms.InputKit": "3.2.2"
         },
         "compile": {
           "bin/placeholder/GrowMeClass.dll": {}
@@ -678,8 +675,7 @@
         "dependencies": {
           "Xamarin.Essentials": "1.5.2",
           "Xamarin.Forms": "4.5.0.495",
-          "Xamarin.Forms.InputKit": "3.2.2",
-          "kphillpotts.Lamp.Plugin": "1.0.0.1"
+          "Xamarin.Forms.InputKit": "3.2.2"
         },
         "compile": {
           "bin/placeholder/GrowMeClass.dll": {}

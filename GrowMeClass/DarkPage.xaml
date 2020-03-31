@@ -9,13 +9,15 @@
 
         
      
-          <Label Text="I am a sleep now see you later"
+          <Label Text="I am sleeping now see you later"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
                    TextColor="#ffffff"
                    FontAttributes="Bold"
                    FontSize="30"
                    />
+
+         <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="clock"/>
 
         <ImageButton 
                    HorizontalOptions="CenterAndExpand"
@@ -25,9 +27,8 @@
                      CornerRadius="10"
                      BackgroundColor="White"
              Margin="5, 10, 10, 40"
-                     
 
-                 Clicked="LightButtonClicked">
+               Clicked="LightButtonClicked">
                 </ImageButton>
       
 

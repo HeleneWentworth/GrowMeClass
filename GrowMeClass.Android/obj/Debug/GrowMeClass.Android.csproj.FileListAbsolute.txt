@@ -525,3 +525,7 @@
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/android/assets/Lamp.Plugin.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/android/assets/Lamp.Plugin.dll.mdb
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/android/assets/System.Resources.ResourceManager.dll
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable/clock.png
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-hdpi/clock.png
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xhdpi/clock.png
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.Android/obj/Debug/res/drawable-xxhdpi/clock.png

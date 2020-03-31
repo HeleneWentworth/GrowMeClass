@@ -146,6 +146,10 @@
     <ImageAsset Include="Assets.xcassets\idea.imageset\idea.png" />
     <ImageAsset Include="Assets.xcassets\idea.imageset\idea-1.png" />
     <ImageAsset Include="Assets.xcassets\idea.imageset\idea-2.png" />
+    <ImageAsset Include="Assets.xcassets\clock.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\clock.imageset\clock.png" />
+    <ImageAsset Include="Assets.xcassets\clock.imageset\clock-1.png" />
+    <ImageAsset Include="Assets.xcassets\clock.imageset\clock-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -186,5 +190,6 @@
     <Folder Include="Assets.xcassets\water_button2.imageset\" />
     <Folder Include="Assets.xcassets\water_button3.imageset\" />
     <Folder Include="Assets.xcassets\idea.imageset\" />
+    <Folder Include="Assets.xcassets\clock.imageset\" />
   </ItemGroup>
 </Project>
