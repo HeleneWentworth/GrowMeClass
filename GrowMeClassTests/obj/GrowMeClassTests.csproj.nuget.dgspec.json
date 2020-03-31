@@ -53,6 +53,10 @@
             "Xamarin.Forms.InputKit": {
               "target": "Package",
               "version": "[3.2.2, )"
+            },
+            "kphillpotts.Lamp.Plugin": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
             }
           },
           "imports": [
@@ -126,6 +130,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.2.0, )"
+            },
+            "kphillpotts.Lamp.Plugin": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
             }
           },
           "imports": [

@@ -71,7 +71,7 @@ namespace GrowMeClass
                 plantNameButton.Text = plant.PlantName;
             }
 
-            Device.BeginInvokeOnMainThread(async () =>
+            Device.BeginInvokeOnMainThread(() =>
             {
                 plantImage.Source = "plant_" + plant.CurrentPlantState + "_" + (Level.GetLevelFromXp(plantXp) + 1).ToString();
 

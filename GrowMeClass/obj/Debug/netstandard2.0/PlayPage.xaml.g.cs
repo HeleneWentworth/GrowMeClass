@@ -20,9 +20,13 @@ namespace GrowMeClass {
         private global::GrowMeClass.Components.DragAndDropSample3ReceivingView droppable;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.Image plantImage;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PlayPage));
             droppable = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::GrowMeClass.Components.DragAndDropSample3ReceivingView>(this, "droppable");
+            plantImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "plantImage");
         }
     }
 }

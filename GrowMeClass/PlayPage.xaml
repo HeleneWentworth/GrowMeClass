@@ -18,36 +18,48 @@
                    FontSize="30"
                    />
 
+       
          <components:DragAndDropSample3ReceivingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
-                BackgroundColor="Beige"
+                BackgroundColor="Green"
                 x:Name="droppable"
-                />
+  
+                /> 
 
+
+
+        <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_1"/>
 
          <components:DragAndDropSample3MovingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
-                BackgroundColor="#354542 ">
-            <Label Text="Play Ball" TextColor="White"/>
+                BackgroundColor="Pink">
+            <Label Text="Tickle me" TextColor="Black"
+                    FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
          <components:DragAndDropSample3MovingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
-                BackgroundColor="#ff6677">
-            <Label Text="Tickle me" TextColor="White"/>
+                BackgroundColor="LightBlue">
+            <Label Text="Play Ball with me" TextColor="Black"
+                    FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
         
          <components:DragAndDropSample3MovingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
-                BackgroundColor="#ff6677">
-            <Label Text="Read me a book" TextColor="White"/>
+                BackgroundColor="#DC143C">
+            <Label Text="Read me a book" TextColor="Black"
+                    FontAttributes="Bold"/>
         </components:DragAndDropSample3MovingView>
 
+        
+
+
+          
         <StackLayout Orientation="Horizontal">
         <ImageButton 
                    HorizontalOptions="CenterAndExpand"

@@ -13,6 +13,8 @@
                    FontSize="30"
                    />
 
+          <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_1"/>
+
             <ImageButton 
                    HorizontalOptions="CenterAndExpand"
                      Source="water_button"
