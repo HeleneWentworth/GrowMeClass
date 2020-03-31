@@ -140,11 +140,7 @@ namespace GrowMeClass
                 UpdateUI();
             }
 
-            if (droppable.BackgroundColor == Color.FromHex("#0B6623"))
-            {
-                UpdateUI();
-                ResetTimer();
-            }
+
         }
     }
 }

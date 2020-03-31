@@ -16,22 +16,27 @@ namespace GrowMeClass.Objects
             {
                 return 0;
             }
-            else if (xp < 500)
+            else if (xp < 2000)
             {
                 return 1;
             }
-            else if (xp >= 500)
+            else if (xp >= 2000)
             {
                 return 2;
             }
-            else if (xp >= 1000)
+
+            else if (xp < 3000)
             {
                 return 3;
             }
-            else if (xp >= 1500)
+            else if (xp >= 4000)
             {
                 return 4;
             }
+
+
+
+
             else
             {
                 return 0;

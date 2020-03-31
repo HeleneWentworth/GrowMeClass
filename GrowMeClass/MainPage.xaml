@@ -4,7 +4,6 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-              xmlns:components="clr-namespace:GrowMeClass.Components;assembly=GrowMeClass"
              x:Class="GrowMeClass.MainPage"
              BackgroundImageSource="#E5E5E5">
 
@@ -33,12 +32,7 @@
                    VerticalOptions="CenterAndExpand"
                    x:Name="xpLabel">1000px</Label>
 
-            <components:DragAndDropSample3ReceivingView
-                AbsoluteLayout.LayoutFlags="All"
-                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
-                BackgroundColor="Beige"
-                x:Name="droppable"
-                />
+           
 
             
 
@@ -58,24 +52,12 @@
                      BackgroundColor="White"
                      x:Name="waterButton"
                      Clicked="waterButton_Clicked"/>
-        <components:DragAndDropSample3MovingView
-                AbsoluteLayout.LayoutFlags="All"
-                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
-                BackgroundColor="#354542 ">
-            <Label Text="Chicken" TextColor="White"/>
-        </components:DragAndDropSample3MovingView>
-
-         <components:DragAndDropSample3MovingView
-                AbsoluteLayout.LayoutFlags="All"
-                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
-                BackgroundColor="#ff6677">
-            <Label Text="Sweeties" TextColor="White"/>
-        </components:DragAndDropSample3MovingView>
+       
 
 
            <ImageButton 
                    HorizontalOptions="CenterAndExpand"
-                     Source="water_button"
+                     Source="water_button1"
                      WidthRequest="75"
                      HeightRequest="75"
                      CornerRadius="10"

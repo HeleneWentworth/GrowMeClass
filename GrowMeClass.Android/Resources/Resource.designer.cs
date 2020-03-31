@@ -10314,6 +10314,15 @@ namespace GrowMeClass.Droid
 			// aapt resource value: 0x7F070079
 			public const int water_button = 2131165305;
 			
+			// aapt resource value: 0x7F07007A
+			public const int water_button1 = 2131165306;
+			
+			// aapt resource value: 0x7F07007B
+			public const int water_button2 = 2131165307;
+			
+			// aapt resource value: 0x7F07007C
+			public const int water_button3 = 2131165308;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

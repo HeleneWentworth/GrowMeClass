@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="GrowMeClass.PlayPage">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            
+              xmlns:components="clr-namespace:GrowMeClass.Components;assembly=GrowMeClass"
+             x:Class="GrowMeClass.PlayPage">
     <StackLayout>
 
 
@@ -13,13 +18,18 @@
                    FontSize="30"
                    />
 
-
+         <components:DragAndDropSample3ReceivingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
+                BackgroundColor="Beige"
+                x:Name="droppable"
+                />
 
 
 
             <ImageButton 
                    HorizontalOptions="CenterAndExpand"
-                     Source="water_button"
+                     Source="water_button2"
                      WidthRequest="75"
                      HeightRequest="75"
                      CornerRadius="10"
@@ -27,6 +37,30 @@
              Margin="5, 10, 10, 40"
                      
                      Clicked="ToiletButtonClicked"></ImageButton>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#354542 ">
+            <Label Text="Play Ball" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#ff6677">
+            <Label Text="Tickle me" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+        
+         <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#ff6677">
+            <Label Text="Read me a book" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
+
+
 
 
     </StackLayout>

@@ -72,15 +72,6 @@
     <ImageAsset Include="Assets.xcassets\water_button.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button@2x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button@3x.png">
-      <Visible>false</Visible>
-    </ImageAsset>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
       <Visible>false</Visible>
@@ -136,6 +127,21 @@
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-2.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-3.png" />
+    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-1.png" />
+    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-2.png" />
+    <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-3.png" />
+    <ImageAsset Include="Assets.xcassets\water_button1.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\water_button1.imageset\water_button1.png" />
+    <ImageAsset Include="Assets.xcassets\water_button1.imageset\water_button1-1.png" />
+    <ImageAsset Include="Assets.xcassets\water_button1.imageset\water_button1-2.png" />
+    <ImageAsset Include="Assets.xcassets\water_button2.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\water_button2.imageset\Asset 1%403x.png" />
+    <ImageAsset Include="Assets.xcassets\water_button2.imageset\water_button2.png" />
+    <ImageAsset Include="Assets.xcassets\water_button2.imageset\water_button2-1.png" />
+    <ImageAsset Include="Assets.xcassets\water_button3.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\water_button3.imageset\water_button3.png" />
+    <ImageAsset Include="Assets.xcassets\water_button3.imageset\water_button3-1.png" />
+    <ImageAsset Include="Assets.xcassets\water_button3.imageset\water_button3-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -169,5 +175,8 @@
     <Folder Include="Assets.xcassets\dsf.imageset\" />
     <Folder Include="Assets.xcassets\plant_healthy_3.imageset\" />
     <Folder Include="Assets.xcassets\plant_healthy_2.imageset\" />
+    <Folder Include="Assets.xcassets\water_button1.imageset\" />
+    <Folder Include="Assets.xcassets\water_button2.imageset\" />
+    <Folder Include="Assets.xcassets\water_button3.imageset\" />
   </ItemGroup>
 </Project>

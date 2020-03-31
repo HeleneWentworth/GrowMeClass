@@ -1,7 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using Xamarin.Forms;
+using GrowMeClass.Objects;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
+
+
+
 
 namespace GrowMeClass
 {
@@ -16,5 +27,11 @@ namespace GrowMeClass
         {
             await Navigation.PushModalAsync(new ToiletPage());
         }
+
+
+        
+                
+  
     }
 }
+

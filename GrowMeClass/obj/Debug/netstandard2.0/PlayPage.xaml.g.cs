@@ -17,8 +17,12 @@ namespace GrowMeClass {
     public partial class PlayPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::GrowMeClass.Components.DragAndDropSample3ReceivingView droppable;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PlayPage));
+            droppable = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::GrowMeClass.Components.DragAndDropSample3ReceivingView>(this, "droppable");
         }
     }
 }
