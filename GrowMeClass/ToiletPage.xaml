@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="GrowMeClass.ToiletPage">
+             x:Class="GrowMeClass.ToiletPage"
+             BackgroundColor="#6b9dc2">
 
     <StackLayout>
 
-        <Label Text="Toilet"
+        <Label Text="Toilet Time"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
                    TextColor="#333333"
@@ -13,7 +14,7 @@
                    FontSize="30"
                    />
 
-          <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_1"/>
+          <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="toilet"/>
 
             <ImageButton 
                    HorizontalOptions="CenterAndExpand"
@@ -23,7 +24,7 @@
                      CornerRadius="10"
                      BackgroundColor="White"
              Margin="5, 10, 10, 40"
-                     Clicked="MainButtonClicked">
+                    Clicked="MainButtonClicked">
                    </ImageButton>
                    
             </StackLayout>

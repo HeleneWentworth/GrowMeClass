@@ -30,7 +30,7 @@ namespace GrowMeClass
 
         async void SleepButtonClicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new DarkPage());
+            await Navigation.PushModalAsync(new SleepPage());
         }
 
 

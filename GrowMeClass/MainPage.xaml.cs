@@ -97,7 +97,7 @@ namespace GrowMeClass
         {
             timer = new Timer();
 
-            timer.Interval = 1000;
+            timer.Interval = 20000;
             timer.Enabled = true;
             timer.Elapsed += UpdateTimeData;
             timer.Start();

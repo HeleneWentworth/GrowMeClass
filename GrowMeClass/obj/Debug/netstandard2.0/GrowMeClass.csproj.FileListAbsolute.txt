@@ -16,10 +16,13 @@ C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/D
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/ref/GrowMeClass.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/bin/Debug/netstandard2.0/GrowMeClass.pdb
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csprojAssemblyReference.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/DarkPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/RenamePlant.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/SleepPage.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ToiletPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csproj.CoreCompileInputs.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfoInputs.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfo.cs
@@ -27,7 +30,4 @@ C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/D
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ref/GrowMeClass.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.pdb
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/SleepPage.xaml.g.cs
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ToiletPage.xaml.g.cs
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/DarkPage.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csprojAssemblyReference.cache

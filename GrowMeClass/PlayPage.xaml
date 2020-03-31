@@ -4,13 +4,14 @@
               xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
             
               xmlns:components="clr-namespace:GrowMeClass.Components;assembly=GrowMeClass"
-             x:Class="GrowMeClass.PlayPage">
+             x:Class="GrowMeClass.PlayPage"
+             BackgroundColor="#6b9dc2">
     <StackLayout>
 
 
 
         
-        <Label Text="Play"
+        <Label Text="Play Time"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
                    TextColor="#333333"

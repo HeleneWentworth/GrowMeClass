@@ -116,14 +116,7 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_1.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_2.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_3.imageset\plant_healthy_2-1.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3-1.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3-2.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-2.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-3.png" />
@@ -150,6 +143,13 @@
     <ImageAsset Include="Assets.xcassets\clock.imageset\clock.png" />
     <ImageAsset Include="Assets.xcassets\clock.imageset\clock-1.png" />
     <ImageAsset Include="Assets.xcassets\clock.imageset\clock-2.png" />
+    <ImageAsset Include="Assets.xcassets\toilet.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\toilet.imageset\toilet.png" />
+    <ImageAsset Include="Assets.xcassets\toilet.imageset\toilet-1.png" />
+    <ImageAsset Include="Assets.xcassets\toilet.imageset\toilet-2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_2-2.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3-1.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -191,5 +191,6 @@
     <Folder Include="Assets.xcassets\water_button3.imageset\" />
     <Folder Include="Assets.xcassets\idea.imageset\" />
     <Folder Include="Assets.xcassets\clock.imageset\" />
+    <Folder Include="Assets.xcassets\toilet.imageset\" />
   </ItemGroup>
 </Project>

@@ -194,9 +194,3 @@ C:/Users/Armand Pretorius/source/repos/GrowMe_Test/TreePea/GrowMeClass/GrowMeCla
 C:/Users/Armand Pretorius/source/repos/GrowMe_Test/TreePea/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.csproj.CopyComplete
 C:/Users/Armand Pretorius/source/repos/GrowMe_Test/TreePea/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.dll
 C:/Users/Armand Pretorius/source/repos/GrowMe_Test/TreePea/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.pdb
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.csprojAssemblyReference.cache
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.csproj.CoreCompileInputs.cache
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.AssemblyInfoInputs.cache
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.AssemblyInfo.cs
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.dll
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClassTests/obj/Debug/netcoreapp3.1/GrowMeClassTests.pdb

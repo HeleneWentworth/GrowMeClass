@@ -32,44 +32,6 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./plant_healthy_2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "plant_healthy_2" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./water_button.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "water_button" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
 				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
 				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
 				<string>./plant_healthy_1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
@@ -89,57 +51,19 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./plant_healthy_3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "plant_healthy_3" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./plant_healthy_3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "plant_healthy_3" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./plant_healthy_1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "plant_healthy_1" has 8 unassigned children.</string>
+			<string>The image set "toilet" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -165,6 +89,63 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
+				<string>./water_button3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button3" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./idea.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "idea" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
 				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
 				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
 				<string>./water_button.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
@@ -178,6 +159,215 @@
 			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The image set "water_button" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button2" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./clock.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "clock" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./idea.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./idea.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "idea" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./clock.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./clock.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "clock" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button3.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button3.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button3" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./plant_healthy_2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "plant_healthy_2" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./plant_healthy_1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "plant_healthy_1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button1.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button1.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button1" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./toilet.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./toilet.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "toilet" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./water_button2.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./water_button2.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "water_button2" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>

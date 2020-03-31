@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="GrowMeClass.MainPage"
-             BackgroundImageSource="#E5E5E5">
+             BackgroundColor="#6b9dc2">
 
     <StackLayout>
      
@@ -39,7 +39,13 @@
         </StackLayout>
         <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_1"/>
 
-        
+        <Label Text="Feed me"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="24"
+              />
 
 
         <ImageButton VerticalOptions="CenterAndExpand" 

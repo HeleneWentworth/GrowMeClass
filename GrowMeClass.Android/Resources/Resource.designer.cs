@@ -10312,22 +10312,25 @@ namespace GrowMeClass.Droid
 			public const int plant_healthy_3 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int tooltip_frame_dark = 2131165305;
+			public const int toilet = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int tooltip_frame_light = 2131165306;
+			public const int tooltip_frame_dark = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int water_button = 2131165307;
+			public const int tooltip_frame_light = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int water_button1 = 2131165308;
+			public const int water_button = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int water_button2 = 2131165309;
+			public const int water_button1 = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int water_button3 = 2131165310;
+			public const int water_button2 = 2131165310;
+			
+			// aapt resource value: 0x7F07007F
+			public const int water_button3 = 2131165311;
 			
 			static Drawable()
 			{
