@@ -16,5 +16,10 @@ namespace GrowMeClass
         {
             await Navigation.PushModalAsync(new MainPage());
         }
+
+        async void PlayButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new PlayPage());
+        }
     }
 }

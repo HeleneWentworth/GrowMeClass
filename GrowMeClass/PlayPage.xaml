@@ -26,18 +26,6 @@
                 />
 
 
-
-            <ImageButton 
-                   HorizontalOptions="CenterAndExpand"
-                     Source="water_button2"
-                     WidthRequest="75"
-                     HeightRequest="75"
-                     CornerRadius="10"
-                     BackgroundColor="White"
-             Margin="5, 10, 10, 40"
-                     
-                     Clicked="ToiletButtonClicked"></ImageButton>
-
          <components:DragAndDropSample3MovingView
                 AbsoluteLayout.LayoutFlags="All"
                 AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
@@ -60,7 +48,30 @@
             <Label Text="Read me a book" TextColor="White"/>
         </components:DragAndDropSample3MovingView>
 
+        <StackLayout Orientation="Horizontal">
+        <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button1"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                     Clicked="SleepButtonClicked"></ImageButton>
 
+         <ImageButton 
+                   HorizontalOptions="CenterAndExpand"
+                     Source="water_button2"
+                     WidthRequest="75"
+                     HeightRequest="75"
+                     CornerRadius="10"
+                     BackgroundColor="White"
+             Margin="5, 10, 10, 40"
+                     
+                     Clicked="ToiletButtonClicked"></ImageButton>
+
+            </StackLayout>
 
 
     </StackLayout>

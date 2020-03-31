@@ -28,10 +28,13 @@ namespace GrowMeClass
             await Navigation.PushModalAsync(new ToiletPage());
         }
 
+        async void SleepButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new SleepPage());
+        }
 
-        
-                
-  
+
+
     }
 }
 
