@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
 
 
 
@@ -17,19 +20,16 @@ namespace GrowMeClass
         }
 
 
-        async void PlayButtonClicked(object sender, EventArgs e)
+        async void backButton_Clicked(System.Object sender, System.EventArgs e)
         {
-            await Navigation.PushModalAsync(new PlayPage());
-        }
-
-        async void MainButtonClicked(object sender, EventArgs e)
-        {
-            await Navigation.PushModalAsync(new MainPage());
+            await Navigation.PopModalAsync();
         }
 
         async void LightButtonClicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new DarkPage());
         }
+
+        
     }
 }

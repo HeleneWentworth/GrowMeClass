@@ -21,11 +21,12 @@ C:/Users/Armand Pretorius/source/repos/GrowMeClass/GrowMeClass/GrowMeClass/obj/D
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/PlayPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/RenamePlant.xaml.g.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ShakePage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/SleepPage.xaml.g.cs
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ToiletPage.xaml.g.cs
-/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csproj.CoreCompileInputs.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfoInputs.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.AssemblyInfo.cs
+/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.csproj.CoreCompileInputs.cache
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/GrowMeClass.dll
 /Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/obj/Debug/netstandard2.0/ref/GrowMeClass.dll

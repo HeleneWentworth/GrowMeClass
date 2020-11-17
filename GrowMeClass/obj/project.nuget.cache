@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEUj0ucsaE6leCkGS2DzI6oKwmFsvSedD/9L6x8PycM+0PbA+eFkws0W/84iJgTBKD72oTNj/3+6pjHMzcDDTA==",
+  "success": true,
+  "projectFilePath": "/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass/GrowMeClass.csproj",
+  "expectedPackageFiles": [
+    "/Users/helenewentworth/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.essentials/1.5.2/xamarin.essentials.1.5.2.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.forms.inputkit/3.2.2/xamarin.forms.inputkit.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

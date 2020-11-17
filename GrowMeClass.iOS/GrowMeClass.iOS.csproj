@@ -117,9 +117,6 @@
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-2.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1.png" />
-    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\plant_healthy_1-3.png" />
     <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-1.png" />
     <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-2.png" />
     <ImageAsset Include="Assets.xcassets\water_button.imageset\water_button-3.png" />
@@ -150,6 +147,13 @@
     <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_2-2.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3.png" />
     <ImageAsset Include="Assets.xcassets\plant_healthy_2.imageset\plant_healthy_3-1.png" />
+    <ImageAsset Include="Assets.xcassets\koala.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\koala.imageset\koala-2.png" />
+    <ImageAsset Include="Assets.xcassets\koala.imageset\koala %281%29 copy.jpg" />
+    <ImageAsset Include="Assets.xcassets\koala.imageset\koala.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala-1.png" />
+    <ImageAsset Include="Assets.xcassets\plant_healthy_1.imageset\koala-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -192,5 +196,6 @@
     <Folder Include="Assets.xcassets\idea.imageset\" />
     <Folder Include="Assets.xcassets\clock.imageset\" />
     <Folder Include="Assets.xcassets\toilet.imageset\" />
+    <Folder Include="Assets.xcassets\koala.imageset\" />
   </ItemGroup>
 </Project>

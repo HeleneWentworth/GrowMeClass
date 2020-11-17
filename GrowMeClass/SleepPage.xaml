@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage NavigationPage.HasBackButton="True"  
+             NavigationPage.HasNavigationBar="True"
+             Title="Sleep Page"
+    xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                x:Class="GrowMeClass.SleepPage"
-             BackgroundColor="#6b9dc2">
+             BackgroundColor="#2A3C44">
  
         <StackLayout>
 
         <Label Text="Sleep Time"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
-                   TextColor="#333333"
+                   TextColor="#ffffff"
                    FontAttributes="Bold"
                    FontSize="30"
                    />
@@ -17,7 +20,7 @@
             <Label Text="I am awake now"
                    HorizontalOptions="Center"
                    VerticalOptions="CenterAndExpand"
-                   TextColor="#333333"
+                   TextColor="#ffffff"
                    FontAttributes="Bold"
                    FontSize="24"
                    />
@@ -26,7 +29,7 @@
             <StackLayout Orientation="Horizontal">
             
 
-           <ImageButton 
+           <!--<ImageButton 
                    HorizontalOptions="CenterAndExpand"
                      Source="water_button"
                      WidthRequest="75"
@@ -35,9 +38,9 @@
                      BackgroundColor="White"
              Margin="5, 10, 10, 40"
                      Clicked="MainButtonClicked">
-                   </ImageButton>
+                   </ImageButton>-->
 
-                <ImageButton 
+                <!--<ImageButton 
                    HorizontalOptions="CenterAndExpand"
                      Source="water_button3"
                      WidthRequest="75"
@@ -46,7 +49,7 @@
                      BackgroundColor="White"
              Margin="5, 10, 10, 40"
                      
-                    Clicked="PlayButtonClicked"></ImageButton>
+                    Clicked="PlayButtonClicked"></ImageButton>-->
 
 
 
@@ -58,14 +61,30 @@
                      CornerRadius="10"
                      BackgroundColor="White"
              Margin="5, 10, 10, 40"
+
                      
 
                   Clicked="LightButtonClicked">
                 </ImageButton>
-
+               
+        
 
                 </StackLayout>
             
+        <Button Text="Back"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="14"
+                    TextColor="#000000"
+                    BackgroundColor="#3DD598"
+                    Clicked="backButton_Clicked"
+                    x:Name="backButton"
+                    HeightRequest="50"
+                    WidthRequest="120"
+                    Margin="5, 10, 10, 40"
+                    CornerRadius="25" >
+        </Button>
     
             </StackLayout>
    

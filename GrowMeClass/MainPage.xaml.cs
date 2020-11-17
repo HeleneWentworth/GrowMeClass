@@ -9,6 +9,11 @@ using System.Timers;
 using Xamarin.Forms;
 
 
+
+//[assembly: ExportFont("Quicksand.ttf", Alias = "Quicksand")]
+
+//[assembly: ExportFont("Montserrat.ttf", Alias = "Montserrat")]
+
 namespace GrowMeClass
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
@@ -32,10 +37,20 @@ namespace GrowMeClass
         }
 
 
-        async void SleepButtonClicked(object sender, EventArgs e)
+        async void sleepButton_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new SleepPage());
         }
+
+        async void playButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new ShakePage());
+        }
+
+        //async void playButton_Clicked(System.Object sender, System.EventArgs e)
+        //{
+        //    await Navigation.PushAsync(new ShakePage());
+        //}
 
         async void EditNameTapped(object sender, EventArgs e)
         {
@@ -59,7 +74,7 @@ namespace GrowMeClass
             if(plantXp < 1)
             {
                 levelLabel.Text = "Not Fed";
-                xpLabel.Text = "tap the chicken button to get fed";
+                xpLabel.Text = "";
             } else
             {
                 levelLabel.Text = "Level " + Level.GetLevelFromXp(plantXp).ToString();
@@ -142,5 +157,10 @@ namespace GrowMeClass
 
 
         }
+
+       
+
+        
+
     }
 }

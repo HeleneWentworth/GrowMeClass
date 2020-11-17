@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage NavigationPage.HasBackButton="True"  
+             NavigationPage.HasNavigationBar="True"
+             Title="Play Page"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#2A3C44"
+             x:Class="GrowMeClass.ShakePage">
+
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+       
+        <Label Text="Shake me to win"
+               FontSize="30"
+               TextColor="#ffffff"></Label>
+            <!--<ImageButton x:Name="ShakeButton"  
+                    Source="koala"  
+                     
+                    HeightRequest="120"
+                     WidthRequest="120"  
+                     
+                    Clicked="ShakeButton_Clicked"  
+                    Margin="25" />-->
+
+        <ImageButton x:Name="ShakeButton" Source="koala" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+               
+                    Clicked="ShakeButton_Clicked"   ></ImageButton>  
+
+
+<!--< ImageButton VerticalOptions="CenterAndExpand" 
+                     HorizontalOptions="Center" 
+                     Source="water_button" 
+                     HeightRequest="60"
+                     WidthRequest="60" 
+                     Padding="8" 
+                     CornerRadius="50" 
+                     BackgroundColor="White"
+                     x:Name="waterButton"
+                     Clicked="waterButton_Clicked"/>-->
+
+
+            <Entry x:Name="MyEntry"
+                   BackgroundColor="Aquamarine"
+                   Text="SHAKE!"
+                   HorizontalTextAlignment="Center"
+                    />
+
+        <Button Text="Back"
+                 HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="14"
+                    TextColor="#000000"
+                    BackgroundColor="#3DD598"
+                x:Name="backButton1"
+                    HeightRequest="50"
+                    WidthRequest="120"
+                    Margin="5, 10, 10, 40"
+                    CornerRadius="25"
+              Clicked="backButton1_Clicked"></Button>
+
+        <!--<Button Text="Back"
+                 HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="14"
+                    TextColor="#000000"
+                    BackgroundColor="#3DD598"
+                x:Name="backButton1"
+                    HeightRequest="50"
+                    WidthRequest="120"
+                    Margin="5, 10, 10, 40"
+                    CornerRadius="25"
+                Clicked="backButton1_Clicked"></Button>-->
+        
+        
+        <!--<Button Text="Back"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="14"
+                    TextColor="#000000"
+                    BackgroundColor="#3DD598"
+                    Clicked="backButton1_Clicked"
+                    x:Name="backButton1"
+                    HeightRequest="50"
+                    WidthRequest="120"
+                    Margin="5, 10, 10, 40"
+                    CornerRadius="25" >
+        </Button>-->
+        
+        </StackLayout>  
+</ContentPage>

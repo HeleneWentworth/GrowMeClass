@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "enTw6AQGsGZc2fYunpWAnS6go2ZoIv9Md3K0UhlecxXZCWJyDTb7LVCf0EuSvw0EuENvbA5e0KMnKx5frWeyAg==",
+  "success": true,
+  "projectFilePath": "/Users/helenewentworth/Projects/TreePea-master/GrowMeClass/GrowMeClass.iOS/GrowMeClass.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/helenewentworth/.nuget/packages/kphillpotts.lamp.plugin/1.0.0.1/kphillpotts.lamp.plugin.1.0.0.1.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.essentials/1.5.2/xamarin.essentials.1.5.2.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512",
+    "/Users/helenewentworth/.nuget/packages/xamarin.forms.inputkit/3.2.2/xamarin.forms.inputkit.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
