@@ -1,4 +1,4 @@
-# GrowMeClass
+# Koalaii
 
 My idea was to have a Koala virtual pet. You would have to feed him, play with him,
 clean him and put him to sleep. If you don't do these certain things he will die.
